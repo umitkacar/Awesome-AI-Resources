@@ -1,0 +1,86 @@
+name: "✨ Add New Resource"
+description: Suggest a new AI/ML resource to be added
+title: "[Resource]: "
+labels: ["enhancement", "new-resource"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this resource belong to?
+      options:
+        - Large Language Models (LLMs)
+        - Generative AI & Stable Diffusion
+        - Computer Vision
+        - Audio & Speech Processing
+        - Biometrics & Security
+        - Mobile & Edge AI
+        - MLOps & Production
+        - Reinforcement Learning
+        - Quantum Machine Learning
+        - AutoML
+        - Tools & Frameworks
+        - Learning Resources
+        - Interview & Career
+        - Other (please specify)
+    validations:
+      required: true
+      
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      description: Name of the resource/tool/paper
+      placeholder: "e.g., GPT-4, YOLOv8, etc."
+    validations:
+      required: true
+      
+  - type: input
+    id: resource-url
+    attributes:
+      label: Resource URL
+      description: Link to the resource
+      placeholder: "https://..."
+    validations:
+      required: true
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of the resource and why it's valuable
+      placeholder: "This resource is useful because..."
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty Level
+      options:
+        - "🟢 Beginner"
+        - "🟡 Intermediate"
+        - "🔴 Advanced"
+        - "🟣 Research"
+        
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing Model
+      options:
+        - "🆓 Free"
+        - "💰 Paid"
+        - "🔄 Freemium"
+        - "🎓 Academic (free for research)"
+        
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I have checked that this resource is not already listed
+          required: true
+        - label: The link is working and not broken
+          required: true
+        - label: This is a high-quality resource that adds value
+          required: true

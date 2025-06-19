@@ -31,3 +31,10 @@ logs/
 *.temp
 tmp/
 temp/
+
+# Planning and internal docs
+ROADMAP.md
+TODO.md
+NOTES.md
+planning/
+drafts/

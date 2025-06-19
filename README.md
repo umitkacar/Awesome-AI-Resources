@@ -1,11 +1,20 @@
 # 🚀 Awesome AI Resources
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/umitkacar/Awesome-AI-Resources?style=social)](https://github.com/umitkacar/Awesome-AI-Resources/stargazers)
+[![Forks](https://img.shields.io/github/forks/umitkacar/Awesome-AI-Resources?style=social)](https://github.com/umitkacar/Awesome-AI-Resources/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/umitkacar/Awesome-AI-Resources)](https://github.com/umitkacar/Awesome-AI-Resources/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/umitkacar/Awesome-AI-Resources)](https://github.com/umitkacar/Awesome-AI-Resources/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/umitkacar/Awesome-AI-Resources/pulls)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A comprehensive collection of AI/ML resources, tools, frameworks, and learning materials curated by [Umit Kacar, PhD](https://github.com/umitkacar).
 
-**Last Updated:** 2025-06-19 | **Total Resources:** 1000+ | **Categories:** 12
+**Last Updated:** 2025-06-20 | **Total Resources:** 444+ | **Categories:** 15
 
 ## 📑 Table of Contents
 
+- [📓 Interactive Notebooks](#-interactive-notebooks)
 - [🤖 Large Language Models (LLMs)](#-large-language-models-llms)
 - [🎨 Generative AI & Stable Diffusion](#-generative-ai--stable-diffusion)
 - [👁️ Computer Vision](#-computer-vision)
@@ -15,9 +24,21 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 - [🚀 MLOps & Production](#-mlops--production)
 - [🎮 Reinforcement Learning](#-reinforcement-learning)
 - [⚛️ Quantum Machine Learning](#-quantum-machine-learning)
+- [🤖 AutoML & Neural Architecture Search](#-automl--neural-architecture-search)
+- [📈 Time Series Analysis](#-time-series-analysis)
+- [🕸️ Graph Neural Networks](#-graph-neural-networks)
 - [🔧 Tools & Frameworks](#-tools--frameworks)
 - [📚 Learning Resources](#-learning-resources)
 - [💼 Interview & Career](#-interview--career)
+
+---
+
+## 📓 Interactive Notebooks
+
+### Hands-on Learning with Google Colab
+- **[Notebook Collection](./notebooks/)** - Run AI/ML code directly in your browser
+- **[Beginner Tutorials](./notebooks/beginner/)** - Start your AI journey
+- **[Advanced Examples](./notebooks/advanced/)** - State-of-the-art implementations
 
 ---
 
@@ -114,6 +135,33 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 - **[Quantum ML Basics](./QuantumML/quantum-ml-basics.md)** - Introduction to QML
 - **[Quantum Algorithms](./QuantumML/quantum-algorithms.md)** - QAOA, VQE, quantum kernels
 - **[QML Frameworks](./QuantumML/qml-frameworks.md)** - PennyLane, Qiskit, TensorFlow Quantum
+
+---
+
+## 🤖 AutoML & Neural Architecture Search
+
+### Automated Machine Learning
+- **[AutoML Frameworks](./AutoML/automl-frameworks.md)** - AutoGluon, H2O, PyCaret, and more
+- **[Neural Architecture Search](./AutoML/nas-methods.md)** - DARTS, ENAS, NAS algorithms
+- **[Hyperparameter Optimization](./AutoML/hyperopt-tools.md)** - Optuna, Ray Tune, Hyperopt
+
+---
+
+## 📈 Time Series Analysis
+
+### Forecasting & Temporal Data
+- **[Time Series Basics](./TimeSeries/time-series-basics.md)** - Classical and modern forecasting methods
+- **[Deep Learning for Time Series](./TimeSeries/dl-time-series.md)** - LSTM, Transformer models
+- **[Prophet & AutoTS](./TimeSeries/automl-time-series.md)** - Automated forecasting tools
+
+---
+
+## 🕸️ Graph Neural Networks
+
+### Learning on Graph-Structured Data
+- **[GNN Fundamentals](./GraphNeuralNetworks/gnn-fundamentals.md)** - GCN, GraphSAGE, GAT architectures
+- **[PyTorch Geometric Guide](./GraphNeuralNetworks/pytorch-geometric.md)** - Implementation tutorials
+- **[Graph Applications](./GraphNeuralNetworks/graph-applications.md)** - Social networks, molecules, knowledge graphs
 
 ---
 
