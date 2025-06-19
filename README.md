@@ -66,8 +66,6 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 
 ### Speech Recognition & Synthesis
 - **[Speech Recognition](./Audio/speech-recognition.md)** - ASR models and tools
-- **[Speech Verification](./Audio/speech-verification.md)** - Speaker verification systems
-- **[Text-to-Speech](./Audio/text-to-speech.md)** - TTS models and APIs
 
 ---
 
@@ -75,12 +73,10 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 
 ### Biometric Authentication
 - **[Ear Recognition](./Biometrics/ear-recognition.md)** - Ear biometrics and segmentation
-- **[Palm Recognition](./Biometrics/palm-recognition.md)** - Palm print recognition
 - **[Signature Verification](./Biometrics/signature-verification.md)** - Offline/online signature verification
 
 ### Security Applications
 - **[DeepFake Detection](./Biometrics/deepfake-detection.md)** - Detecting synthetic media
-- **[Anomaly Detection](./Biometrics/anomaly-detection.md)** - Security anomaly detection
 
 ---
 
@@ -91,6 +87,7 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 - **[ai-edge-computing-tiny-embedded](./Mobile/edge-computing.md)** - Edge computing resources
 - **[ai-flutter](./Mobile/ai-flutter.md)** - Flutter + AI integration
 - **[awesome-ncnn-collection](./Mobile/ncnn-collection.md)** - NCNN framework resources
+- **[NCNN Mobile AI](./Mobile/ncnn-mobile-ai.md)** - NCNN framework comprehensive guide
 
 ### Optimization
 - **[Onnxruntime-TensorRT](./Mobile/onnxruntime-tensorrt.md)** - ONNX Runtime and TensorRT optimization
@@ -101,9 +98,6 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 
 ### Deployment & Monitoring
 - **[Production Deployment](./MLOps/production-deployment.md)** - MLOps platforms and best practices
-- **[Model Monitoring](./MLOps/model-monitoring.md)** - Drift detection and observability
-- **[Feature Stores](./MLOps/feature-stores.md)** - Feature management systems
-- **[Model Optimization](./MLOps/model-optimization.md)** - Quantization and pruning
 
 ---
 
@@ -111,8 +105,6 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 
 ### RL Fundamentals
 - **[RL Basics](./ReinforcementLearning/rl-basics.md)** - Introduction to RL concepts
-- **[Deep RL](./ReinforcementLearning/deep-rl.md)** - DQN, PPO, SAC algorithms
-- **[Multi-Agent RL](./ReinforcementLearning/multi-agent-rl.md)** - MARL frameworks
 
 ---
 
@@ -150,7 +142,6 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 - **[Software-Development-Lessons](./Learning/software-development.md)** - Software development best practices
 - **[Turkish AI Resources](./Learning/turkish-ai-resources.md)** - 🇹🇷 Türkçe yapay zeka kaynakları
 - **[NLP_Research](./Learning/nlp-research.md)** - NLP research papers and tutorials
-- **[Research Papers](./Learning/research-papers.md)** - Curated list of impactful papers
 
 ---
 
@@ -158,7 +149,6 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 
 - **[FAANG Interview Prep](./Career/faang-interview-prep.md)** - Complete FAANG AI/ML interview guide
 - **[AI Marketing Apps](./Career/ai-marketing.md)** - AI in marketing applications
-- **[Career Roadmap](./Career/career-roadmap.md)** - AI/ML career progression guide
 
 ---
 
