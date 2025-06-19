@@ -1,5 +1,7 @@
 # Awesome 3D Computer Vision: State-of-the-Art Methods and Implementations
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Overview](#overview)
 - [3D Reconstruction](#3d-reconstruction)

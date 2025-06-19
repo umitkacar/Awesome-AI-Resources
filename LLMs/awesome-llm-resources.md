@@ -2,6 +2,8 @@
 
 A curated list of Large Language Model (LLM) resources, papers, tools, and tutorials.
 
+**Last Updated:** 2025-06-19
+
 ## 📚 Table of Contents
 - [Models](#models)
 - [Fine-tuning](#fine-tuning)

@@ -1,5 +1,7 @@
 # Tattoo Segmentation: Advanced Computer Vision Techniques
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Overview](#overview)
 - [Challenges in Tattoo Segmentation](#challenges-in-tattoo-segmentation)

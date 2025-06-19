@@ -1,5 +1,7 @@
 # 🚀 FAANG Interview Preparation Guide
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Comprehensive guide for preparing for technical interviews at FAANG (Facebook/Meta, Amazon, Apple, Netflix, Google) and other top tech companies.
 

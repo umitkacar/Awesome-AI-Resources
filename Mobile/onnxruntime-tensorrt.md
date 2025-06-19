@@ -1,5 +1,7 @@
 # ⚡ ONNX Runtime & TensorRT Optimization
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Comprehensive guide for optimizing AI models using ONNX Runtime and NVIDIA TensorRT for maximum inference performance across different platforms.
 

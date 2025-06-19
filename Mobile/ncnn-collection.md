@@ -1,5 +1,7 @@
 # 🚀 Awesome NCNN Collection
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 NCNN is a high-performance neural network inference framework optimized for mobile platforms, developed by Tencent. This collection covers everything from basic usage to advanced optimization techniques.
 

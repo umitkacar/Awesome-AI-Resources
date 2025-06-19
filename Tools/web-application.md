@@ -1,5 +1,7 @@
 # 🌐 Web Application Development for AI/ML
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Complete guide for building modern web applications that integrate AI/ML capabilities, from frontend frameworks to full-stack architectures.
 

@@ -1,5 +1,7 @@
 # Pseudonymous Video Platform: Privacy-Preserving Video Systems
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Overview](#overview)
 - [Privacy-Preserving Technologies](#privacy-preserving-technologies)

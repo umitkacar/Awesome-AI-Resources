@@ -1,5 +1,7 @@
 # Food Generative AI: Stable Diffusion + LLMs for Culinary Innovation
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 
 Food Generative AI combines the power of Stable Diffusion for food image generation with Large Language Models (LLMs) for recipe creation, ingredient analysis, and culinary insights. This comprehensive guide explores the intersection of AI and gastronomy, providing practical implementations for food-related generative AI applications.

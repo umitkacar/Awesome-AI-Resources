@@ -1,5 +1,7 @@
 # 🖼️ Awesome JPEG XL (JXL) Resources
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 A comprehensive collection of resources, tools, and information about JPEG XL (JXL) - the next-generation image format designed to replace JPEG, PNG, and GIF.
 

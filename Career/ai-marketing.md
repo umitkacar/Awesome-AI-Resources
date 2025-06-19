@@ -1,5 +1,7 @@
 # 🎯 AI in Marketing Applications
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Comprehensive guide to artificial intelligence applications in marketing, covering personalization, automation, analytics, and emerging trends in AI-driven marketing strategies.
 

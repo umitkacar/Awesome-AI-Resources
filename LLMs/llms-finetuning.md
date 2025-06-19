@@ -2,6 +2,8 @@
 
 A comprehensive guide to fine-tuning Large Language Models with practical examples, best practices, and optimization techniques.
 
+**Last Updated:** 2025-06-19
+
 ## 📚 Table of Contents
 - [Introduction](#introduction)
 - [Fine-tuning Methods](#fine-tuning-methods)

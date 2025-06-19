@@ -1,5 +1,7 @@
 # Dark Mode Implementation: Comprehensive Guide
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 
 Dark Mode has become an essential feature in modern applications, offering reduced eye strain, improved battery life on OLED displays, and enhanced user experience in low-light conditions. This comprehensive guide covers implementation strategies, best practices, and advanced techniques for creating sophisticated dark mode experiences across web, mobile, and desktop applications.

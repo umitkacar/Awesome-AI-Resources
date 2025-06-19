@@ -1,5 +1,7 @@
 # 📚 AI/ML eBooks and Papers Collection
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 A curated collection of essential eBooks, research papers, and learning materials for artificial intelligence and machine learning practitioners at all levels.
 

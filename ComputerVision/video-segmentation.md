@@ -1,5 +1,7 @@
 # Awesome Video Segmentation: State-of-the-Art Methods and Implementations
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Overview](#overview)
 - [Video Segmentation Categories](#video-segmentation-categories)

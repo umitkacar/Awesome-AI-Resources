@@ -1,5 +1,7 @@
 # 🔄 MLOps Best Practices
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Comprehensive guide to Machine Learning Operations (MLOps) - the practice of deploying and maintaining ML models in production reliably and efficiently.
 

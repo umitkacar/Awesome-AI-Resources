@@ -2,6 +2,8 @@
 
 Leveraging Large Language Models and Vision-Language Models for advanced Image Quality Assessment (IQA) tasks.
 
+**Last Updated:** 2025-06-19
+
 ## 📚 Table of Contents
 - [Introduction](#introduction)
 - [Vision-Language Models for IQA](#vision-language-models-for-iqa)

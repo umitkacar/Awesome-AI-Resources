@@ -2,6 +2,8 @@
 
 Advanced tricks, optimizations, and techniques for working with Large Language Models effectively.
 
+**Last Updated:** 2025-06-19
+
 ## 📚 Table of Contents
 - [Prompt Engineering Tricks](#prompt-engineering-tricks)
 - [Inference Optimization](#inference-optimization)

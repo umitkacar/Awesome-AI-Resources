@@ -1,5 +1,7 @@
 # 🟨 AI with JavaScript
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Comprehensive guide for implementing AI and machine learning in JavaScript, covering browser-based inference, Node.js backends, and modern frameworks.
 

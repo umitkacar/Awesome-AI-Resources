@@ -1,5 +1,7 @@
 # 🎯 AI + Flutter Integration
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Complete guide for integrating artificial intelligence and machine learning capabilities into Flutter applications for cross-platform mobile development.
 

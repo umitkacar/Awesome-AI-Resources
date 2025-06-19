@@ -2,6 +2,8 @@
 
 A comprehensive collection of resources for Segment Anything Model (SAM) and vision foundation models, including implementations, applications, and research materials.
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Overview](#overview)
 - [Segment Anything Model (SAM)](#segment-anything-model-sam)

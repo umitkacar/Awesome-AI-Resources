@@ -1,5 +1,7 @@
 # 🔷 AI with C++
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 High-performance AI and machine learning implementation in C++, covering frameworks, optimization techniques, and deployment strategies for production systems.
 

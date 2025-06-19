@@ -1,5 +1,7 @@
 # Awesome Video Inpainting: State-of-the-Art Techniques and Implementations
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Overview](#overview)
 - [Video Inpainting Challenges](#video-inpainting-challenges)

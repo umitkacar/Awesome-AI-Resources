@@ -2,6 +2,8 @@
 
 A comprehensive collection of ComfyUI workflows, custom nodes, extensions, and advanced techniques for Stable Diffusion and other generative AI models.
 
+**Last Updated:** 2025-06-19
+
 ## 📚 Table of Contents
 - [Introduction to ComfyUI](#introduction-to-comfyui)
 - [Installation & Setup](#installation--setup)

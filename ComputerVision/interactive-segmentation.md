@@ -1,5 +1,7 @@
 # Interactive Image Segmentation: State-of-the-Art Methods and Implementations
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Overview](#overview)
 - [Interactive Segmentation Paradigms](#interactive-segmentation-paradigms)

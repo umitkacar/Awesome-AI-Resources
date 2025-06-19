@@ -1,5 +1,7 @@
 # 🐍 AI Python Backend Development
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Complete guide for building scalable Python backends for AI/ML services, from REST APIs to real-time inference systems.
 

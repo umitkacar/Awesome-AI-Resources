@@ -1,5 +1,7 @@
 # 🚀 Trending AI/ML Frameworks & Libraries
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 A curated collection of the most popular and trending AI/ML frameworks and libraries, including emerging technologies and established solutions.
 

@@ -1,5 +1,7 @@
 # Transformers-CNN Segmentation: Hybrid Architectures for Advanced Image Segmentation
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Overview](#overview)
 - [Transformer-CNN Hybrid Architectures](#transformer-cnn-hybrid-architectures)

@@ -1,5 +1,7 @@
 # 🖐️ Palm Recognition Systems
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Advanced biometric palm recognition systems utilizing deep learning and computer vision for contactless authentication and identification.
 

@@ -2,6 +2,8 @@
 
 A comprehensive collection of resources, papers, implementations, and tools for Generative Adversarial Networks (GANs) and Stable Diffusion models.
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [GANs Resources](#gans-resources)

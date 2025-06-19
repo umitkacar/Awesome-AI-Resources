@@ -2,16 +2,22 @@
 
 A comprehensive collection of AI/ML resources, tools, frameworks, and learning materials curated by [Umit Kacar, PhD](https://github.com/umitkacar).
 
+**Last Updated:** 2025-06-19 | **Total Resources:** 1000+ | **Categories:** 12
+
 ## 📑 Table of Contents
 
 - [🤖 Large Language Models (LLMs)](#-large-language-models-llms)
 - [🎨 Generative AI & Stable Diffusion](#-generative-ai--stable-diffusion)
 - [👁️ Computer Vision](#-computer-vision)
+- [🎵 Audio & Speech Processing](#-audio--speech-processing)
+- [🔐 Biometrics & Security](#-biometrics--security)
 - [📱 Mobile & Edge AI](#-mobile--edge-ai)
+- [🚀 MLOps & Production](#-mlops--production)
+- [🎮 Reinforcement Learning](#-reinforcement-learning)
+- [⚛️ Quantum Machine Learning](#-quantum-machine-learning)
 - [🔧 Tools & Frameworks](#-tools--frameworks)
 - [📚 Learning Resources](#-learning-resources)
 - [💼 Interview & Career](#-interview--career)
-- [🛠️ Development Resources](#️-development-resources)
 
 ---
 
@@ -54,9 +60,27 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 ### 3D Vision
 - **[awesome-3D-Computer-Vision](./ComputerVision/3d-computer-vision.md)** - 3D computer vision resources
 
-### Biometrics
-- **[Palm_Recognition_System](./ComputerVision/palm-recognition.md)** - Palm recognition techniques
-- **[ATR-AI](./ComputerVision/atr-ai.md)** - Automatic Target Recognition
+---
+
+## 🎵 Audio & Speech Processing
+
+### Speech Recognition & Synthesis
+- **[Speech Recognition](./Audio/speech-recognition.md)** - ASR models and tools
+- **[Speech Verification](./Audio/speech-verification.md)** - Speaker verification systems
+- **[Text-to-Speech](./Audio/text-to-speech.md)** - TTS models and APIs
+
+---
+
+## 🔐 Biometrics & Security
+
+### Biometric Authentication
+- **[Ear Recognition](./Biometrics/ear-recognition.md)** - Ear biometrics and segmentation
+- **[Palm Recognition](./Biometrics/palm-recognition.md)** - Palm print recognition
+- **[Signature Verification](./Biometrics/signature-verification.md)** - Offline/online signature verification
+
+### Security Applications
+- **[DeepFake Detection](./Biometrics/deepfake-detection.md)** - Detecting synthetic media
+- **[Anomaly Detection](./Biometrics/anomaly-detection.md)** - Security anomaly detection
 
 ---
 
@@ -70,6 +94,34 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 
 ### Optimization
 - **[Onnxruntime-TensorRT](./Mobile/onnxruntime-tensorrt.md)** - ONNX Runtime and TensorRT optimization
+
+---
+
+## 🚀 MLOps & Production
+
+### Deployment & Monitoring
+- **[Production Deployment](./MLOps/production-deployment.md)** - MLOps platforms and best practices
+- **[Model Monitoring](./MLOps/model-monitoring.md)** - Drift detection and observability
+- **[Feature Stores](./MLOps/feature-stores.md)** - Feature management systems
+- **[Model Optimization](./MLOps/model-optimization.md)** - Quantization and pruning
+
+---
+
+## 🎮 Reinforcement Learning
+
+### RL Fundamentals
+- **[RL Basics](./ReinforcementLearning/rl-basics.md)** - Introduction to RL concepts
+- **[Deep RL](./ReinforcementLearning/deep-rl.md)** - DQN, PPO, SAC algorithms
+- **[Multi-Agent RL](./ReinforcementLearning/multi-agent-rl.md)** - MARL frameworks
+
+---
+
+## ⚛️ Quantum Machine Learning
+
+### Quantum Computing for ML
+- **[Quantum ML Basics](./QuantumML/quantum-ml-basics.md)** - Introduction to QML
+- **[Quantum Algorithms](./QuantumML/quantum-algorithms.md)** - QAOA, VQE, quantum kernels
+- **[QML Frameworks](./QuantumML/qml-frameworks.md)** - PennyLane, Qiskit, TensorFlow Quantum
 
 ---
 
@@ -96,24 +148,20 @@ A comprehensive collection of AI/ML resources, tools, frameworks, and learning m
 ### Educational Materials
 - **[ai-ebook](./Learning/ai-ebook.md)** - AI/ML ebooks and papers
 - **[Software-Development-Lessons](./Learning/software-development.md)** - Software development best practices
-- **[IELTS](./Learning/ielts.md)** - IELTS preparation resources
+- **[Turkish AI Resources](./Learning/turkish-ai-resources.md)** - 🇹🇷 Türkçe yapay zeka kaynakları
 - **[NLP_Research](./Learning/nlp-research.md)** - NLP research papers and tutorials
+- **[Research Papers](./Learning/research-papers.md)** - Curated list of impactful papers
 
 ---
 
 ## 💼 Interview & Career
 
-- **[awesome-faang-interview](./Career/faang-interview.md)** - FAANG interview preparation
-- **[ai-marketing-apps](./Career/ai-marketing.md)** - AI in marketing applications
+- **[FAANG Interview Prep](./Career/faang-interview-prep.md)** - Complete FAANG AI/ML interview guide
+- **[AI Marketing Apps](./Career/ai-marketing.md)** - AI in marketing applications
+- **[Career Roadmap](./Career/career-roadmap.md)** - AI/ML career progression guide
 
 ---
 
-## 🔧 Specialized Tools
-
-### Image Formats
-- **[awesome-jxl](./Tools/awesome-jxl.md)** - JPEG XL resources and tools
-
----
 
 ## 🤝 Contributing
 

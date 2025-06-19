@@ -1,5 +1,7 @@
 # 📱 Mobile AI Apps Development (iOS & Android)
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Comprehensive guide for developing AI-powered mobile applications on iOS and Android platforms, from on-device inference to cloud integration.
 

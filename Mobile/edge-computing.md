@@ -2,6 +2,8 @@
 
 A comprehensive guide to deploying AI models on edge devices, embedded systems, and resource-constrained environments. From smartphones to microcontrollers, this resource covers frameworks, tools, and best practices.
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Hardware Platforms](#hardware-platforms)

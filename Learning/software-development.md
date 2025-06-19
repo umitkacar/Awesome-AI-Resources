@@ -1,5 +1,7 @@
 # 💻 Software Development Best Practices
 
+**Last Updated:** 2025-06-19
+
 ## Overview
 Comprehensive guide to software development best practices, covering coding standards, design patterns, development methodologies, and professional growth strategies.
 

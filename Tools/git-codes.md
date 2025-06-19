@@ -2,6 +2,8 @@
 
 A comprehensive collection of Git commands, workflows, and best practices for developers. From basic operations to advanced techniques, this guide covers everything you need to master Git.
 
+**Last Updated:** 2025-06-19
+
 ## Table of Contents
 - [Git Basics](#git-basics)
 - [Configuration](#configuration)
